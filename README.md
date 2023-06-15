@@ -1,7 +1,7 @@
 
 # Overview
 
-This package contains launch files and configuration files for the Magni robot.
+This package contains launch files and configuration files for the Magni robot. Added few useful transformation that can be used more easily.
 
 ## Launch files
 
